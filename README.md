@@ -1,6 +1,3 @@
-Tabii! İşte **GitHub’a direkt koyabileceğin, formatlı ve hazır `README.md`**:
-
-````markdown
 # Shell Analyzer TK
 
 Shell Analyzer TK is a Python-based tool for auditing Bash and POSIX shell scripts.  
