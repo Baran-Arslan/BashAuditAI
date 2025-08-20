@@ -1,0 +1,6 @@
+{
+  "llm_url": "http://127.0.0.1:1234/v1/chat/completions",
+  "llm_model": "meta-llama-3-8b-instruct",
+  "shellcheck_path": "C:\\tools\\shellcheck\\shellcheck.exe",
+  "default_scan_dir": "C:/Users/Baran/Desktop/BashAuditAI/Code"
+}
